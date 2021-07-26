@@ -1,0 +1,57 @@
+C:\Users\LUIS COTA\source\repos\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe.config
+C:\Users\LUIS COTA\source\repos\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe
+C:\Users\LUIS COTA\source\repos\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.pdb
+C:\Users\LUIS COTA\source\repos\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csprojResolveAssemblyReference.cache
+C:\Users\LUIS COTA\source\repos\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Form1.resources
+C:\Users\LUIS COTA\source\repos\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Properties.Resources.resources
+C:\Users\LUIS COTA\source\repos\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csproj.GenerateResource.Cache
+C:\Users\LUIS COTA\source\repos\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csproj.CoreCompileInputs.cache
+C:\Users\LUIS COTA\source\repos\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.exe
+C:\Users\LUIS COTA\source\repos\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.pdb
+C:\Users\Aldo\Desktop\compi\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe.config
+C:\Users\Aldo\Desktop\compi\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.exe
+C:\Users\Aldo\Desktop\compi\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.pdb
+C:\Users\Aldo\Desktop\compi\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe
+C:\Users\Aldo\Desktop\compi\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.pdb
+C:\Users\Aldo\Desktop\compi\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csprojResolveAssemblyReference.cache
+C:\Users\Aldo\Desktop\compi\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Form1.resources
+C:\Users\Aldo\Desktop\compi\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Properties.Resources.resources
+C:\Users\Aldo\Desktop\compi\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csproj.GenerateResource.Cache
+C:\Users\LUIS COTA\Desktop\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe.config
+C:\Users\LUIS COTA\Desktop\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe
+C:\Users\LUIS COTA\Desktop\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.pdb
+C:\Users\LUIS COTA\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csprojResolveAssemblyReference.cache
+C:\Users\LUIS COTA\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Form1.resources
+C:\Users\LUIS COTA\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Properties.Resources.resources
+C:\Users\LUIS COTA\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csproj.GenerateResource.Cache
+C:\Users\LUIS COTA\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csproj.CoreCompileInputs.cache
+C:\Users\LUIS COTA\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.exe
+C:\Users\LUIS COTA\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.pdb
+C:\Users\Aldo\Desktop\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe.config
+C:\Users\Aldo\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.exe
+C:\Users\Aldo\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.pdb
+C:\Users\Aldo\Desktop\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe
+C:\Users\Aldo\Desktop\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.pdb
+C:\Users\Aldo\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csprojResolveAssemblyReference.cache
+C:\Users\Aldo\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Form1.resources
+C:\Users\Aldo\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Properties.Resources.resources
+C:\Users\Aldo\Desktop\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csproj.GenerateResource.Cache
+C:\Users\Aldo\Desktop\USB Aldo\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe.config
+C:\Users\Aldo\Desktop\USB Aldo\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.exe
+C:\Users\Aldo\Desktop\USB Aldo\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.pdb
+C:\Users\Aldo\Desktop\USB Aldo\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe
+C:\Users\Aldo\Desktop\USB Aldo\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.pdb
+C:\Users\Aldo\Desktop\USB Aldo\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csprojResolveAssemblyReference.cache
+C:\Users\Aldo\Desktop\USB Aldo\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Form1.resources
+C:\Users\Aldo\Desktop\USB Aldo\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Properties.Resources.resources
+C:\Users\Aldo\Desktop\USB Aldo\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csproj.GenerateResource.Cache
+C:\Users\LUIS COTA\Desktop\comp\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe.config
+C:\Users\LUIS COTA\Desktop\comp\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.exe
+C:\Users\LUIS COTA\Desktop\comp\CompiladorGO\CompiladorGO\bin\Debug\CompiladorGO.pdb
+C:\Users\LUIS COTA\Desktop\comp\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csprojResolveAssemblyReference.cache
+C:\Users\LUIS COTA\Desktop\comp\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Form1.resources
+C:\Users\LUIS COTA\Desktop\comp\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.Properties.Resources.resources
+C:\Users\LUIS COTA\Desktop\comp\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csproj.GenerateResource.Cache
+C:\Users\LUIS COTA\Desktop\comp\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.csproj.CoreCompileInputs.cache
+C:\Users\LUIS COTA\Desktop\comp\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.exe
+C:\Users\LUIS COTA\Desktop\comp\CompiladorGO\CompiladorGO\obj\Debug\CompiladorGO.pdb
